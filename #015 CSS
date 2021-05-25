@@ -17,11 +17,18 @@ div {
   border: 1px solid red;
 }
 
+<b>This text is bold</b>
+
+
 <p style="color:blue">This is another Image.</p>
+
+<p style="color:orange">This is another color.</p>
 
 <p style="font-family:verdana">This is a font.</p>
 
 <p style="font-family:'Courier New'">This is another font.</p>
+
+
 
 </body>
 </html>
